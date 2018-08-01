@@ -1,0 +1,52 @@
+抽象工厂
+
+创建Fruit
+创建Apple,Banana 实现Fruit并修改为抽象abstract
+创建FruitFactory 添加两个方法
+创建WinShiApple，WinShiBanana分别继承Apple,Banana并重写方法，方法内部自定义
+创建WinShiFactory实现FruitFactory接口重写方法，返回WinShiApple，WinShiBanana的对象
+测试方法及具体用法
+再MainClass方法里的main方法里
+FruitFactory winShiFactory = new WinShiFactory();
+         Fruit apple = winShiFactory.getApple();
+         Fruit banana = winShiFactory.getBanana();
+         apple.get();
+         banana.get();
+
+
+新建一个温室苹果WinshiApple(
+public  class WinshiApple extends Apple{
+	public void get(
+		System.out.pringln("采集温室苹果");
+	}
+
+}
+新建一个温室香蕉WinshiBanana(
+public  class WinshiBanana extends Banana{
+	public void get(
+		System.out.pringln("采集温室香蕉");
+	}
+}
+
+新建一个温室工厂 WinshiFruitFactory
+(public class WinshiFruitFactory implements FruitFactory{
+
+	public Fruit getApple(){
+		return new WenshiApple();
+	}
+
+	public Fruit getBanana(){
+		return new WenshiBanana();
+	}
+}
+
+MainClass里
+FruitFactory ff=new WinshiFruitFactory();
+Fruit apple3=ff.getApple();
+apple3.get();
+
+)
+
+)
+
+总结：抽象工厂中方法对应产品结构，具体工厂对应产品族

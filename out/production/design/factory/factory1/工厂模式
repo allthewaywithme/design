@@ -1,0 +1,9 @@
+1.创建Apple实体对象
+2.创建Fruit接口
+3.Apple 实现Fruit接口并重写方法，方法内部自定义
+4.创建FruitFactory接口，定义返回值为Fruit的getFruit方法
+5.创建AppleFactory类并实现FruitFactory接口，重写方法
+6.测试函数Test类中调用
+FruitFactory fruitFactory = new AppleFactory();
+         Fruit fruit = fruitFactory.getFruit();
+         fruit.get();

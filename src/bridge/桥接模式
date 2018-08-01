@@ -1,0 +1,6 @@
+桥接模式：
+    1.创建Engine接口
+    2.创建Engine2000,Engine2000实现类实现Engine接口
+    3.创建Car定义为abstract的抽象类，注入Engine对象
+    4.创建具体Bus,Jeep类继承抽象类Car,重写方法
+    5.创建客户端类MainClass,调用
