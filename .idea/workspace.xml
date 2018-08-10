@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05a39fae-af3d-48ec-af08-70d2cc774922" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/cor/application/责任链模式应用" beforeDir="false" afterPath="$PROJECT_DIR$/src/cor/application/责任链模式应用" afterDir="false" />
-    </list>
+    <list default="true" id="05a39fae-af3d-48ec-af08-70d2cc774922" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -408,12 +406,12 @@
       <workItem from="1533000572050" duration="17855000" />
       <workItem from="1533086593176" duration="12793000" />
       <workItem from="1533305105282" duration="1197000" />
-      <workItem from="1533866672075" duration="6458000" />
+      <workItem from="1533866672075" duration="7057000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55311000" />
+    <option name="totallyTimeSpent" value="55910000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
