@@ -48,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/src/cor/application/责任链模式应用">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
-              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -183,7 +183,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -408,12 +408,12 @@
       <workItem from="1533000572050" duration="17855000" />
       <workItem from="1533086593176" duration="12793000" />
       <workItem from="1533305105282" duration="1197000" />
-      <workItem from="1533866672075" duration="6273000" />
+      <workItem from="1533866672075" duration="6458000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55126000" />
+    <option name="totallyTimeSpent" value="55311000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -910,7 +910,7 @@
     <entry file="file://$PROJECT_DIR$/src/cor/application/责任链模式应用">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
-          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
         </state>
       </provider>
     </entry>
