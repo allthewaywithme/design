@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05a39fae-af3d-48ec-af08-70d2cc774922" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cor/application/责任链模式应用" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cor/application/责任链模式应用" beforeDir="false" afterPath="$PROJECT_DIR$/src/cor/application/责任链模式应用" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,8 +47,8 @@
       <file leaf-file-name="责任链模式应用" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cor/application/责任链模式应用">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="57" selection-start-column="57" selection-end-column="57" />
+            <state relative-caret-position="38">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -184,7 +183,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="10" />
     <option name="y" value="20" />
     <option name="width" value="1346" />
@@ -268,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MainClass (3)">
+  <component name="RunManager" selected="Application.MainClass">
     <configuration name="MainClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cor.car.MainClass" />
       <module name="design" />
@@ -377,15 +376,14 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="Application.MainClass" />
       <item itemvalue="Application.MainClass (2)" />
       <item itemvalue="Application.MainClass (4)" />
       <item itemvalue="Application.MainClass (1)" />
       <item itemvalue="Application.MainClass (5)" />
-      <item itemvalue="Application.MainClass (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainClass (3)" />
         <item itemvalue="Application.MainClass (5)" />
         <item itemvalue="Application.MainClass (1)" />
         <item itemvalue="Application.MainClass (4)" />
@@ -410,12 +408,12 @@
       <workItem from="1533000572050" duration="17855000" />
       <workItem from="1533086593176" duration="12793000" />
       <workItem from="1533305105282" duration="1197000" />
-      <workItem from="1533866672075" duration="5997000" />
+      <workItem from="1533866672075" duration="6273000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54850000" />
+    <option name="totallyTimeSpent" value="55126000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -911,8 +909,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cor/application/责任链模式应用">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="57" selection-start-column="57" selection-end-column="57" />
+        <state relative-caret-position="38">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
