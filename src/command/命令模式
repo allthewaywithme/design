@@ -1,0 +1,7 @@
+命令模式
+1.command
+2.ConcreteCommadn  RunCommand
+3.Receiver
+4.Invoker
+5.MainClass
+6.Waiter
