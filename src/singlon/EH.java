@@ -12,13 +12,15 @@ public class EH {
 
     private String name;
 
+    //此处定义类变量实例并直接实例化，在类加载的时候就完成了实例化并保存在类中
     private static final EH eh =new EH();
 
     public static EH getEh(){
         return eh;
     }
 
-    public EH(){}
+    //定义私有构造函数，用于单例实例
+    private EH(){}
 
     public String getName() {
         return name;

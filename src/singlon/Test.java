@@ -16,10 +16,18 @@ public class Test {
 
          EH eh=EH.getEh();
          eh.setName("ddd");
+         System.out.println(eh.getName());
+         System.out.println("---------");
          EH eh1=EH.getEh();
          eh1.setName("dddd");
          System.out.println(eh.getName());
          System.out.println(eh1.getName());
 
+//         EH eh2=new EH();
+//         eh2.setName("555");
+//         System.out.println("----------");
+//         System.out.println(eh.getName());
+//         System.out.println(eh1.getName());
+//         System.out.println(eh2.getName());
       }
 }
