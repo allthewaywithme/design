@@ -2,7 +2,7 @@ package Memento.memento2;
 
 /**
  * Created with IntelliJ IDEA.
- * Description:
+ * Description:备份对象
  *
  * @Author: yangzhicheng
  * @Date: 2018/8/21 17:14
